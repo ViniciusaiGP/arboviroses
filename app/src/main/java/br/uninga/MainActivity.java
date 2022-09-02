@@ -7,10 +7,12 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import br.uninga.view.CadPNCDActivity;
 import br.uninga.view.ListaBairroActivity;
 import br.uninga.view.ListaImovelActivity;
 import br.uninga.view.ListaLocalidadeActivity;
 import br.uninga.view.ListaLogradouroActivity;
+import br.uninga.view.ListaPNCDActivity;
 import br.uninga.view.ListaQuarteiraoActivity;
 import br.uninga.view.ListaTipoImovelActivity;
 
@@ -22,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     Button btnQuarteirao;
     Button btnTipoImovel;
     Button btnImovel;
+    Button btnVinicius;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -79,6 +83,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
+        btnVinicius = findViewById(R.id.btnVinicius);
+        btnVinicius.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent( MainActivity.this, ListaPNCDActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 }

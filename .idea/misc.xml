@@ -10,12 +10,14 @@
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_cad_imovel.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_cad_localidade.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_cad_logradouro.xml" value="0.15789473684210525" />
+        <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_cad_pncdactivity.xml" value="0.14901315789473685" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_cad_quarteirao.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_cad_tipo_imovel.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_lista_bairro.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_lista_imovel.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_lista_localidade.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_lista_logradouro.xml" value="0.15789473684210525" />
+        <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_lista_pncdactivity.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_lista_quarteirao.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_lista_tipo_imovel.xml" value="0.15789473684210525" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/activity_main.xml" value="0.15789473684210525" />
@@ -24,6 +26,7 @@
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/lista_imovel.xml" value="0.264" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/lista_localidades.xml" value="0.176" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/lista_logradouro.xml" value="0.176" />
+        <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/lista_pncd.xml" value="0.15723684210526315" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/lista_quarteirao.xml" value="0.2" />
         <entry key="..\:/Android_Studio_Projects/arboviroses-Douglas/app/src/main/res/layout/lista_tipo_imovel.xml" value="0.264" />
         <entry key="..\:/Arboviroses/Projeto/app/src/main/res/layout/activity_cad_bairro.xml" value="0.26510416666666664" />
